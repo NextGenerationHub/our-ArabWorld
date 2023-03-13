@@ -1,0 +1,40 @@
+
+.h11{
+    
+   
+    width: 30%;
+    
+    text-align: center;
+    background-color: rgb(172, 26, 26);
+    color: #fff;
+
+}
+
+header{
+    position: relative;
+    
+    font-size: 23px;
+    
+}
+body{
+    background-image: url(https://shortest.link/esY2);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-color: rgb(250, 159, 159);
+    font-size: 25px;
+    font-family: 'Amiri', serif;
+    margin-top: 10px;
+    background-position: left center;
+}
+.pre1{
+    font-size: 20px;
+}
+ul {
+    padding-right: 1%;
+    padding-top: 0%;
+}
+div{
+    padding-bottom: 0%;
+    
+}

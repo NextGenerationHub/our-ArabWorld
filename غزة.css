@@ -1,0 +1,104 @@
+/*div {
+background-color: rgb(233, 196, 183);
+ color: black;
+ width: 20%;
+ text-align: center;
+ left: 60%;
+ right: 50%;
+ transform: translate(-50%,-50%);
+ 
+position: absolute;
+ 
+}
+header{
+    text-align: center;
+    width: 100%;
+    height: 10%;
+    position: relative;
+      
+}*/
+
+.h11{ width: 20%;
+    margin-right: 40%;
+    color: #fff;
+    background-color: rgba(124, 147, 167, 0.808);
+     border-radius: 10px ;
+    border-top:  2px solid darkred ;
+    border-left: 2px solid darkgreen ;
+    border-right: 2px solid black ;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px; }
+div{
+   
+}
+header{
+    position: relative;
+    
+    
+    
+}
+body{
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: 23%;
+    background-color: rgb(170, 180, 189);
+    background-image: url(https://rb.gy/4k9y7v);
+    background-position: 10% 8%;
+}
+
+.pre1{
+    font-size: 30px;
+}
+ul {padding-right: 1%;
+font-size: 20px;
+padding-top: 0%;}
+
+
+    .ee{ font-size: 20px;
+        text-align: right;
+        margin-right: 0%;
+        background-color: rgba(124, 147, 167, 0.808);}
+    
+    img{
+        margin-left: 20%;
+        width: 300px;
+        height: 300px;
+    border-radius: 5px;
+    border-top:  2px solid darkred ;
+    border-left: 2px solid darkgreen ;
+    border-right: 2px solid black ;
+    border-bottom: 2px solid rgb(255, 255, 255) ;}
+    table, th, td {
+        border:2px solid black;
+        text-align: center;
+        padding-left: 30px;}
+    .dd{font-size: 25px;
+    text-align: justify;
+    }
+    a:link {color: darkgreen}
+    a:hover{color: darkred}
+    a:visited{color: wheat}
+    a:active{color: black}
+    .cat{ border-radius: 5px;
+        border-top:  2px solid darkred ;
+        border-left: 2px solid darkgreen ;
+        border-right: 2px solid black ;
+        border-bottom: 2px solid rgb(255, 255, 255) ;
+        font-size: 25px;
+        width: 68%;
+        background-color: rgba(110, 131, 150, 0.863) ;
+        margin-left: 20%;
+        margin-right: 20%;
+    } 
+    .car{ border-radius: 10px;
+        border-top:  2px solid darkred ;
+        border-left: 2px solid darkgreen ;
+        border-right: 2px solid black ;
+        border-bottom: 2px solid rgb(255, 255, 255) ;
+        font-size: 25px; 
+    color: #fff; }
+     
+.ddaa{text-align: center; 
+    
+}

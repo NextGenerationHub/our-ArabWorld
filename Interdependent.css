@@ -1,0 +1,66 @@
+.form{
+    width: 50%;
+    border-radius: 5px;
+    /*background-color: #3c92b1c4;*/
+    background-color: #b9adbb;
+    padding: 20px;
+    margin: 5% 25% ;
+    border: 2px solid #2a687ec4;
+    
+}
+body{
+    /*background-color:#52bce35e;*/
+    background-image: url(palestine.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+  
+}
+.header{
+    width: 50%;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: 10% 25% ;
+}
+
+input[type=text], select , [type=number] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 10%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+    /*background-color: #bfe6f4;*/
+    color: black;
+   
+  }
+  
+  button {
+    width: 20%;
+    background-color: #28515f;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left:40%;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  label {
+    font-size: 20px;
+    text-align: center;
+    padding: 12px 20px;
+    margin-left: 40%;
+    width: 100%;
+    float: right;
+    height: 100%;
+
+  
+  }

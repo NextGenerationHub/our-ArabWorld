@@ -1,0 +1,27 @@
+pre{font-size: 25px;
+    background-color: rgba(245, 245, 220, 0.74);
+    text-align: justify;
+
+}
+.pre1{    text-align: justify;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-top:  2px solid darkred ;
+border-left: 2px solid darkgreen ;
+border-right: 2px solid black ;
+border-bottom: 2px solid wheat ;
+border-radius: 5px;
+
+}
+h1{width: 20%;
+    margin-right: 40%;
+    color: rgba(255, 255, 255, 0.753); border-radius: 5px ;
+    background-color: rgba(241, 241, 193, 0.877);
+    color: #000;
+    
+    text-align: center;}
+    body{
+        background-color: rgba(113, 133, 27, 0.808);
+    }

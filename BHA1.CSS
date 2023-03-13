@@ -1,0 +1,37 @@
+.h11{
+    
+   
+    width: 20%;
+    
+    text-align: center;
+    background-color:rgb(182, 0, 0) ;
+    color: #fff;
+
+}
+div{
+   
+}
+header{
+    position: relative;
+    
+    
+    
+}
+body{
+    background-image: url(https://rb.gy/rjnhet);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 33%;
+    background-color:rgb(224, 151, 151);
+    
+}
+.pre1{
+    font-size: 20px;
+}
+ul {
+    padding-right: 1%;
+    padding-top: 0%;
+}
+h2{
+    padding-bottom: 0%;
+}

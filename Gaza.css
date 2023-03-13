@@ -1,0 +1,30 @@
+div{
+    width: 50%;
+    height: 50%;
+    text-align: center;
+   
+    
+}
+img{
+    width: 60%;
+    height: 60%;
+    text-align: center;
+    border: 2px solid #a1673766;
+    border-radius: 10px;
+    margin: 1% 70%;
+ 
+}
+body{
+    /*background-color:#52bce35e;*/
+    background-image: url(gaza.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+h1 {
+    color: black; 
+    text-align: center;
+    margin-left: 75%;
+    margin-top: 20%;
+    width: 300px;
+}

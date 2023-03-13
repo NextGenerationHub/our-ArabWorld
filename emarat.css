@@ -1,0 +1,41 @@
+.h11{
+    
+   
+    width: 25%;
+    
+    text-align: center;
+    background-color: rgba(45, 67, 129, 0.473);
+    color: #fff;
+    border-radius: 10px;
+
+}
+
+header{
+    position: relative;
+    
+    font-size: 25px;
+    
+}
+body{
+    background-image: url(https://shortest.link/dQZ6);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-color: rgb(233, 231, 255);
+    font-size: 27px;
+    font-family: 'Amiri', serif;
+    margin-top: 10px;
+    background-position: left center;
+   
+}
+.pre1{
+    font-size: 20px;
+}
+ul {
+    padding-right: 1%;
+    padding-top: 0%;
+}
+div{
+    padding-bottom: 0%;
+    
+}

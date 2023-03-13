@@ -1,0 +1,37 @@
+.h11{
+    
+   
+    width: 20%;
+    
+    text-align: center;
+    background-color:rgb(150, 9, 9) ;
+    color: #fff;
+
+}
+div{
+   
+}
+header{
+    position: relative;
+    
+    
+    
+}
+body{
+    background-image: url(https://rb.gy/vqhsa7);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-color:rgb(155, 75, 83)
+    
+}
+.pre1{
+    font-size: 20px;
+}
+ul {
+    padding-right: 1%;
+    padding-top: 0%;
+}
+h2{
+    padding-bottom: 0%;
+}

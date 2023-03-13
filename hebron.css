@@ -1,0 +1,70 @@
+
+
+.h11{
+    
+   
+   width: 20%;
+    
+    text-align: center;
+    background-color: rgb(235, 203, 203);
+    color: red(255,255,255);
+    margin-right: 500px;
+    border-radius: 5px;
+}
+div{
+  text-align: center; 
+}
+header{
+    position: relative;
+    
+    
+    
+}
+body{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 52%;
+    background-color: rgba(213, 221, 230, 0.096);
+    /*background-image: url(https://i0.wp.com/alghad.com/wp-content/uploads/2019/04/2-%D8%A7%D9%84%D8%AD%D8%B1%D9%85-%D8%A7%D9%84%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81-%E2%80%AB1%E2%80%AC-%E2%80%AB%E2%80%AC.jpg?fit=1024%2C577&ssl=1);*/
+    background-position: 10% 40%;
+}
+
+.pre1{
+    font-size: 30px;
+}
+ul {
+    padding-right: 1%;
+    font-size: 20px;
+    padding-top: 0%;
+    
+}
+h2{
+    padding-bottom: 0%;
+    
+
+}
+img{
+    width: 200px;
+    border-radius: 10px;
+    margin-right: 12%;
+    width: 200px;
+    height: 150px;
+}
+table, th, td {
+    border:1px solid black;
+}
+h2{
+background-color: rgb(197, 163, 231);
+width: 15%;
+}
+table th{
+   margin-right: 20px;
+   
+}
+a{
+    text-decoration:none;
+}
+.xx{border-radius: 5px;
+border: 3px solid;
+background-color: rgb(197, 163, 231); 
+font-size: 20px;}

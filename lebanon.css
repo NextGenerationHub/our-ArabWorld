@@ -1,0 +1,60 @@
+/*div {
+background-color: rgb(233, 196, 183);
+ color: black;
+ width: 20%;
+ text-align: center;
+ left: 60%;
+ right: 50%;
+ transform: translate(-50%,-50%);
+ 
+position: absolute;
+ 
+}
+header{
+    text-align: center;
+    width: 100%;
+    height: 10%;
+    position: relative;
+      
+}*/
+
+.h11{
+    
+   
+    width: 20%;
+    
+    text-align: center;
+    background-color: rgb(226, 20, 20);
+    color: #fff;
+
+}
+
+   
+
+header{
+    position: relative;
+    
+    
+    
+}
+body{
+    background-image: url("https://rb.gy/j8fiej");
+    background-attachment: scroll;
+        background-repeat: no-repeat;
+    background-size: 35%;
+    background-color: rgb(255, 255, 255);
+    
+}
+.pre1{
+    font-size: 20px;
+}
+ul {
+    padding-right: 1%;
+    padding-top: 0%;
+}
+h2{
+    padding-bottom: 0%;
+}
+
+
+

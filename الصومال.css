@@ -1,0 +1,58 @@
+/*div {
+background-color: rgb(233, 196, 183);
+ color: black;
+ width: 20%;
+ text-align: center;
+ left: 60%;
+ right: 50%;
+ transform: translate(-50%,-50%);
+ 
+position: absolute;
+ 
+}
+header{
+    text-align: center;
+    width: 100%;
+    height: 10%;
+    position: relative;
+      
+}*/
+
+.h11{
+    
+   
+    width: 20%;
+    
+    text-align: center;
+    background-color: rgb(97, 129, 245);
+    color: #fff;
+
+}
+
+div {
+   
+}
+header{
+    position: relative;
+    
+    
+    
+}
+body{
+    background-image: url(https://e3arabi.com/wp-content/uploads/2021/08/somalia-1758976_1280.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 52%;
+    background-color: rgb(184, 205, 235);
+    
+}
+.pre1{
+    font-size: 20px;
+}
+ul {
+    padding-right: 1%;
+    padding-top: 0%;
+}
+h2{
+    padding-bottom: 0%;
+}
